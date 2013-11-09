@@ -30,7 +30,7 @@ It is being killed before 5-15 minutes it is because of it having too many proce
 	12:55:00 - 12:55:07 
               
 #### Result from GOOD shared hosting: ####
-	Start   -   Kill 
+	 Start   -   Kill  
 	12:40:00 - 13:40:00     
 	12:41:00 - 13:41:00   
 	12:42:00 - 13:42:00  
