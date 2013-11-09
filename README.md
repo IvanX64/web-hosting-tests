@@ -2,7 +2,6 @@ check_execution_time.php
 =================
 Check maximum execution time, "process killed" on Shared Hosting. You can check your shared web hosting for REAL max_execution_time. Various lengthy cron jobs was killed at same time.
 
-
 Add Cron Jobs
 
 	Every minute (* * * * *) php /...PATH.../web-hosting-tests/check_execution_time.php  
