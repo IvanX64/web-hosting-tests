@@ -9,6 +9,8 @@ Check maximum execution time, "process killed" on Shared Hosting. You can check 
     http://www.domain.com/web-hosting-tests/check_execution_time.php
     
 #### Result from BAD shared hosting: ####
+It is being killed before 5-15 minutes it is because of it having too many processes active under user account. Being killed on 5-15 minute mark is also by shared hosting systems as it kills processes that are executing for too long. 
+
 	 Start   -   Kill  
 	12:40:00 - 12:40:07    
 	12:41:00 - 12:50:04 
