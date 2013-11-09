@@ -5,7 +5,7 @@ Check maximum execution time, "process killed" on Shared Hosting. You can check 
 ### Add Cron Jobs: ###
 	Every minute (* * * * *) php /...PATH.../web-hosting-tests/check_execution_time.php  
 	          
-### Show results after 1 hour: ###
+### Check results after 1 hour: ###
     http://www.domain.com/web-hosting-tests/check_execution_time.php
     
 #### Result from BAD shared hosting: ####
