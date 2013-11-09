@@ -1,4 +1,4 @@
-web-hosting-tests
+check_execution_time.php
 =================
 
 Check maximum execution time, "process killed" on Shared Hosting
