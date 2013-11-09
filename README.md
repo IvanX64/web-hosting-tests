@@ -17,11 +17,8 @@ Show results
     
     
 Result from BAD shared hosting:
-
    Start  -   Kill 
-   
  12:40:00 - 12:40:07 
- 
  12:41:00 - 12:50:04 
  
  12:42:00 - 12:50:04 
